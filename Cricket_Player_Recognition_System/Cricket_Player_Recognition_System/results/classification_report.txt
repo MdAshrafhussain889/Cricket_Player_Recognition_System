@@ -1,0 +1,16 @@
+                  precision    recall  f1-score   support
+
+  Gautam Gambhir       0.82      1.00      0.90         9
+ Harbhajan Singh       0.89      0.80      0.84        10
+   Hardik Pandya       0.78      0.70      0.74        10
+        MS Dhoni       0.80      0.80      0.80        10
+    Rahul Dravid       0.73      0.80      0.76        10
+    Rohit Sharma       0.90      0.82      0.86        11
+Sachin Tendulkar       0.80      0.89      0.84         9
+  Shikhar Dhawan       0.90      0.82      0.86        11
+     Virat Kohli       0.92      1.00      0.96        11
+    Yuvraj Singh       0.78      0.70      0.74        10
+
+        accuracy                           0.83       101
+       macro avg       0.83      0.83      0.83       101
+    weighted avg       0.83      0.83      0.83       101

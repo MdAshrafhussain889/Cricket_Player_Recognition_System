@@ -1,0 +1,16 @@
+# Dataset
+Indian Cricketers Image_dataset/
+test_data/
+Cricket_Player_Recognition_System/Cricket_Player_Recognition_System/dataset/
+Cricket_Player_Recognition_System/Cricket_Player_Recognition_System/dataset_faces/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
